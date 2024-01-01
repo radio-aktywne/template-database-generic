@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.8.0
+_src_path: gh:radio-aktywne/template-meta
+accountname: radio-aktywne
+description: Generic database template 👤
+reponame: template-database-generic
+repourl: https://github.com/radio-aktywne/template-database-generic
+templatename: generic
+type: database
