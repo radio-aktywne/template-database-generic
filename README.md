@@ -14,8 +14,7 @@ Generic database template 👤
 ## 💡 About
 
 This repository contains a [`copier`](https://copier.readthedocs.io) template
-that can be used to create databases for
-[`radio-aktywne`](https://github.com/radio-aktywne).
+that can be used to create databases.
 
 ## 📜 Usage
 
